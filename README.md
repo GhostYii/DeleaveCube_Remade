@@ -8,8 +8,8 @@
 [【DeleaveCube】自制”双消“游戏](https://www.bilibili.com/video/av3273954)
 
 --- 
-![游戏图标](\Mess\icon.jpg)  
-![游戏截图1](Mess\preview2.jpg)
-![游戏截图1](Mess\preview3.jpg)   
+![游戏图标](.\Mess\icon.jpg)  
+![游戏截图1](.\Mess\preview2.jpg)
+![游戏截图1](.\Mess\preview3.jpg)   
 
 --- 
