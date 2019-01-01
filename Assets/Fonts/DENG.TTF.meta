@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ea886f7bedd04be458118160517d40e5
+timeCreated: 1517297439
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DengXian
+  fontNames:
+  - DengXian
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 248632c31051a234a9c34181f7a41331, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
