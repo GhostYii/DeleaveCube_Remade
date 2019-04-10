@@ -5,6 +5,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using MoonLightGame;
 
+[DisallowMultipleComponent]
 public class UIController : MonoBehaviour
 {
     private static UIController instance;
@@ -21,7 +22,9 @@ public class UIController : MonoBehaviour
         }
     }
 
-    public Image colorTip;
+    //public Image colorTip;
+    //public UITweener tweener;
+    public Transform leftTrans, centerTrans, rightTrans;
 
     private void Awake()
     {
@@ -34,9 +37,9 @@ public class UIController : MonoBehaviour
         }
     }
 
-    private void Update()
-    {
-        if (colorTip)
-            colorTip.color = BlockManager.Instance.currentSelected ? BlockManager.Instance.currentSelected.color : Color.clear;
-    }
+    //private void Update()
+    //{
+    //    if (colorTip)
+    //        colorTip.color = BlockManager.Instance.currentSelected ? BlockManager.Instance.currentSelected.color : Color.clear;
+    //}
 }
