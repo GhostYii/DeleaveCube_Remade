@@ -23,7 +23,7 @@
 [2019/04/10]  
 考研复试已经结束，拟录取通知已经得知快两个星期了。每天在划水摸鱼之际对本项目进行更新。  
 [1] 重新设计了主界面UI界面与UI动画      
-    ![ui_design_orign](.\Mess\ui.gif)  -> ![ui_design](.\Mess\ui_ptype.gif)  
+    ![ui_design_orign](https://github.com/GhostYii/DeleaveCube_Remade/blob/master/Mess/ui.gif)  -> ![ui_design](.https://github.com/GhostYii/DeleaveCube_Remade/blob/master/Mess/ui_ptype.gif)  
 [2] 添加了大量美术资源
 
 ---   
