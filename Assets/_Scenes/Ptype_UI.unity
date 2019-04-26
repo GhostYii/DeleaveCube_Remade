@@ -1089,7 +1089,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   self: {fileID: 1383609379}
   target: {fileID: 889200253}
-  animationType: 4
+  animationType: 2
   ease: 27
   duration: 0.35
 --- !u!1 &250284204
@@ -3378,7 +3378,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   self: {fileID: 889200253}
   target: {fileID: 1383609379}
-  animationType: 3
+  animationType: 1
   ease: 27
   duration: 0.35
 --- !u!1 &889200252
@@ -6522,6 +6522,8 @@ MonoBehaviour:
   leftTrans: {fileID: 570376661}
   centerTrans: {fileID: 212357689}
   rightTrans: {fileID: 1056263377}
+  upTrans: {fileID: 0}
+  downTrans: {fileID: 0}
 --- !u!1 &1544368658
 GameObject:
   m_ObjectHideFlags: 0
@@ -7054,7 +7056,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   self: {fileID: 1383609379}
   target: {fileID: 462457643}
-  animationType: 3
+  animationType: 1
   ease: 27
   duration: 0.35
 --- !u!1 &1650145699

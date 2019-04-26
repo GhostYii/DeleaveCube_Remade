@@ -22,9 +22,9 @@ public class UIController : MonoBehaviour
         }
     }
 
-    //public Image colorTip;
+    //public Image colorTip; 
     //public UITweener tweener;
-    public Transform leftTrans, centerTrans, rightTrans;
+    public Transform leftTrans, centerTrans, rightTrans, upTrans, downTrans;
 
     private void Awake()
     {
